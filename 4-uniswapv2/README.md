@@ -28,6 +28,7 @@ Build the UI with features based on the requirements:
 - [ ] **Add liquidity**
 - [ ] **Remove Liquidity**
 - [ ] **Show all pools**
+- [ ] **Faucet tokens to tests**
 
 ## Network Info
 
